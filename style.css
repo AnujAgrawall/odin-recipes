@@ -39,6 +39,8 @@ div {
     img{
       margin-top: 3cm;margin-bottom: 2cm;margin-left: 9cm;
       border: solid; color: aliceblue;
+      height: auto;
+      width: auto;
       
       
     }
