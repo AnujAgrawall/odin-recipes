@@ -32,8 +32,12 @@ div {
         background-color: rgb(255, 0, 0);
     }
     a {
-        margin-left: 15cm; margin-right: 15cm;
+      text-align: center;
+      padding-left: 1in; padding-right: 0.1in;
+      
+        margin-left: 5in; margin-right: 5in;
         color: rgb(255, 255, 255);
+        
         
     }
     img{
