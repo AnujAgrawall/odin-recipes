@@ -4,10 +4,11 @@ div {
     font-size: 37px;
     text-align: center;
     font-weight: bold;
+    margin-left: 8cm;margin-right: 8cm; 
     
   }
   button{
-    background-color: rgb(0, 47, 255);
+    background-color: rgb(255, 51, 0);
     font-size: 20px;
     text-align: left;
     font-weight: bold;
@@ -15,19 +16,32 @@ div {
   h2{
     background-color: rgb(229, 255, 0);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: green;  
+    color: rgb(255, 5, 5); 
+    text-align: center; 
+    margin-left: 10cm; margin-right: 10cm;
     }
     h4{
-        background-color: rgb(255, 0, 0);
-        color: white;
+        background-color: rgb(187, 255, 0);
+        color: rgb(255, 255, 255);
         font-weight: bold;
+        font-size: 25px;
         text-align: center;
+        border: solid;; color: rgb(0, 0, 0);
     }
     ol{
         background-color: rgb(255, 0, 0);
     }
     a {
-        
+        margin-left: 15cm; margin-right: 15cm;
         color: rgb(255, 255, 255);
+        
     }
-    
+    img{
+      margin-top: 3cm;margin-bottom: 2cm;margin-left: 9cm;
+      border: solid; color: aliceblue;
+      
+      
+    }
+    body{
+      margin-left: 0.5cm; margin-right: 1cm; margin-top: 4cm; margin-bottom: 10cm;
+    }

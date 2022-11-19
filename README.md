@@ -6,3 +6,4 @@ This website is all about using my previous learned html skills and by using it.
  sucessfully added 3 recipes and added  comments for better understanding after the css class will be contributing more towards this.
  added style.css for good looks and will update soon
 added some colours and alignments
+added borders and more colors
